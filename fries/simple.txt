@@ -2,3 +2,4 @@ potato
 oil
 salt
 papper
+sugar
